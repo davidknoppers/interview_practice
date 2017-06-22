@@ -1,9 +1,11 @@
 # intro_algos
 This repo holds my practice code for CS algorithm and data structure fundamentals.
 The folder descriptions will tell you more!
+
 **comparison_sorts**
 
 This folder stores my first-ever attempts at writing the canonical comparison-based sorts.
+
 My more recent folder of classic sorts is written in C here:
 https://github.com/davidknoppers/holbertonschool-low_level_programming/tree/master/0x1A-sorting_algorithms
 
