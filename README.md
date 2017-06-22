@@ -8,6 +8,7 @@ My more recent folder of classic sorts is written in C here:
 https://github.com/davidknoppers/holbertonschool-low_level_programming/tree/master/0x1A-sorting_algorithms
 
 **dynamic_programming**
+
 coin_change.py - Computes the total number of ways a value can be made with the given coin denominations.
 
 **codewars**
