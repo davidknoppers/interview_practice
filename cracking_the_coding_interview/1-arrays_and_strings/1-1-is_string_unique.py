@@ -16,6 +16,8 @@ def is_unique(string):
         else:
             seen_set.add(char)
     return True
+
+
 tests = ["abcdefghjikl123456789", "", "1234567654", "abccdefghijklmnop", "aAbBcC"]
 for test in tests:
     print("test: {}\nresult:{}".format(test, is_unique(test)))
